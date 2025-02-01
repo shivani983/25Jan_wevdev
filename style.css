@@ -1,0 +1,16 @@
+img {
+    height: 200px;
+    weight: 200px;
+    border-radius: 100px;
+}
+
+h2{
+    background-color: darksalmon;
+}
+
+p{
+    background-color:plum;
+}
+ul{
+    background-color: cadetblue;
+}
